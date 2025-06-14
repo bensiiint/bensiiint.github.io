@@ -412,11 +412,6 @@ body.menu-open {
     margin-right: 3rem;
     margin-bottom: 0;
   }
-  .resume-actions .home__button {
-  margin: 0 0.5rem;
-  margin-bottom: 10px;
-  width: 150px;
-}
 }
 
 @media screen and (min-width: 1200px) {
@@ -931,7 +926,7 @@ html {
 
 .resume-actions .home__button {
   margin: 0 0.5rem;
-  margin-bottom: 10px;
+  padding-bottom: 10px;
   width: 150px;
 }
 
